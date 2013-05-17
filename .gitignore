@@ -1,0 +1,13 @@
+*.class
+
+# Package Files #
+*.war
+*.ear
+
+# Eclipse Files #
+.checkstyle
+.classpath
+.project
+/target/
+/bin/
+/.settings/
